@@ -88,10 +88,10 @@
 
 <h3 align="left">My Recent Projects:</h3>
 <p align="left">
-  <a href="https://github.com/anuj-shivhare/discord-video-chat" target="_blank">
+  <a href="https://github.com/anujshivhare/discord-video-chat" target="_blank">
     <img src="https://img.shields.io/badge/Discord%20Video%20Chat-%20-%23000000?style=flat&logo=discord&logoColor=white" alt="Discord Video Chat" />
   </a>
-  <a href="https://github.com/anuj-shivhare/snapgram" target="_blank">
-    <img src="https://img.shields.io/badge/Snapgram-%20-%23FF5722?style=flat&logo=instagram&logoColor=white" alt="Snapgram" />
+  <a href="https://github.com/anujshivhare/snapgram" target="_blank">
+    <img src="https://snapgram-orau.onrender.com/assets/logo-DjTRaapb.svg&logoColor=white" alt="Snapgram" />
   </a>
 </p>
