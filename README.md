@@ -46,7 +46,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -94,4 +94,12 @@
   <a href="https://github.com/anujshivhare/snapgram" target="_blank">
     <img src="https://img.shields.io/badge/Snapgram-%20-%23000000?style=flat&logo=instagram&logoColor=white" alt="Snapgram" />
   </a>
+</p>
+
+<h3 align="left">Language Stats:</h3>
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujshivhare&layout=compact&hide=html&theme=dark" alt="Top Languages" />
+  </a>
+  
 </p>
