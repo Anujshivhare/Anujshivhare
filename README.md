@@ -16,7 +16,7 @@
 
 - 📫 **Reach me at:** [shivhareanuj1234@gmail.com](mailto:shivhareanuj1234@gmail.com)
 
-- 📄 **My Resume:** [Download PDF](https://anuj-shivhare.netlify.app/Anuj's%20Resume.pdf)
+- 📄 **My Resume:** [Resume](https://anuj-shivhare.netlify.app/Anuj's%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -92,6 +92,6 @@
     <img src="https://img.shields.io/badge/Discord%20Video%20Chat-%20-%23000000?style=flat&logo=discord&logoColor=white" alt="Discord Video Chat" />
   </a>
   <a href="https://github.com/anujshivhare/snapgram" target="_blank">
-    <img src="https://snapgram-orau.onrender.com/assets/logo-DjTRaapb.svg&logoColor=white" alt="Snapgram" />
+    <img src="https://img.shields.io/badge/Snapgram-%20-%23000000?style=flat&logo=instagram&logoColor=white" alt="Snapgram" />
   </a>
 </p>
